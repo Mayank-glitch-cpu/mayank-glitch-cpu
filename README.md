@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vyasmayank963@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TRmyUFAnWNXmOnDzGycH4uc5sdecfAs9/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AVEahbCMfm4akASOfY3-AD3bzJomfM9h/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
