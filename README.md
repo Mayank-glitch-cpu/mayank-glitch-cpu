@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank-glitch-cpu" alt="mayank-glitch-cpu" /></a> </p>
 
-- 🔭 I’m currently working on **Root Phenotyping , A deep Learning based bioinformatic Project that uses MaskRCNN to detect the Phenotypic traits of Roots(namely Arabidopsis Thalina, Brasicca Napus and Wheat)**
+- 🔭 I’m currently working on **LTC (Liquid Time Neural Nets) , a type of continuous-time recurrent neural network (CTRNN) that use time-dependent dynamics to process sequential or time-series data more efficiently and interpretably.**
 
-- 🌱 I’m currently learning **NoSQL,Data Visualisation, Data processsing at Scale ,Statistical Learning, Data Privacy and Security , AI and ML**
+- 🌱 I’m currently learning **NoSQL,Data Visualisation, Data processsing at Scale ,Statistical Learning, Data Privacy and Security , AI and ML, NLP**
 
-- 👯 I’m looking to collaborate on **Projects that uses Data and mainly focuses on automation and use of AI**
+- 👯 I’m looking to collaborate on **Projects that uses Data and mainly focuses on automation and GenAI**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mayank-glitch-cpu)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vyasmayank963@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AVEahbCMfm4akASOfY3-AD3bzJomfM9h/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-Wtk6j8s3GkjGfBryGMVwQ4BdBz4PlW5/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
