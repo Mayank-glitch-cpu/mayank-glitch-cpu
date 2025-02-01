@@ -1,43 +1,110 @@
-<h1 align="center">Hi 👋, I'm Mayank</h1>
-<h3 align="center">A passionate Analyst, keen about diving into Data driven Projects and a Volatile grasper of new skills</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-glitch-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-glitch-cpu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank-glitch-cpu" alt="mayank-glitch-cpu" /></a> </p>
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+    Hey There I am Mayank Vyas!!
+    <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" />
+</h1>
 
-- 🔭 I’m currently working on **LTC (Liquid Time Neural Nets) , a type of continuous-time recurrent neural network (CTRNN) that use time-dependent dynamics to process sequential or time-series data more efficiently and interpretably.**
+# 💫 About Me
 
-- 🌱 I’m currently learning **NoSQL,Data Visualisation, Data processsing at Scale ,Statistical Learning, Data Privacy and Security , AI and ML, NLP**
+Hello! I'm a passionate **ML Engineer, Data Analyst, and IoT Researcher** currently pursuing my Master's in Data Analytics at **Arizona State University**. I am deeply engaged in exploring the world of **Machine Learning, AI, and IoT**, and I'm always eager to innovate and collaborate on transformative projects.
 
-- 👯 I’m looking to collaborate on **Projects that uses Data and mainly focuses on automation and GenAI**
+- 🔭 **What I do:** I focus on building scalable and efficient solutions using **Machine Learning algorithms**, **Deep Learning frameworks** (like TensorFlow and PyTorch), and advanced data analytics techniques. My work spans from developing deep learning pipelines for automated root phenotyping to optimizing IoT data aggregation systems for smart agriculture.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mayank-glitch-cpu)
+- 👯 **Collaboration Interests:** I thrive on partnering with like-minded professionals on projects related to **Machine Learning**, **Artificial Intelligence**, **Data Analytics**, and **IoT Systems**. Whether it's code, ideas, or research, I enjoy working in dynamic environments that foster innovation and growth.
 
-- 📝 I regularly write articles on [Google Scholar](https://scholar.google.com/citations?user=ZiszgsIAAAAJ&hl=en)
+- 🌱 **What I'm Looking For:** I'm always on the lookout for opportunities to expand my knowledge, tackle challenging problems, and contribute to projects that push the boundaries of technology.
 
-- 💬 Ask me about **, Data Analysis, Visualisation, DBMS, Neural networks**
+- 🌐 **Let’s Connect:** You can reach me at [mvyas7@asu.edu](mailto:mvyas7@asu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/mayank-vyas-369796213/). I’m always happy to discuss ideas, share insights, or explore potential collaborations.
 
-- 📫 How to reach me **vyasmayank963@gmail.com**
+- 🔗 **Explore My Work:** Check out my [GitHub](https://github.com/Mayank-glitch-cpu) and [Portfolio](https://mayank-glitch-cpu.github.io/) to see the projects I’ve worked on and the impact I'm aiming to create in the world of technology.
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-Wtk6j8s3GkjGfBryGMVwQ4BdBz4PlW5/view?usp=sharing)
+<!-- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mayank-vyas-369796213/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/Mayank-glitch-cpu)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=flat&logo=gmail)](mailto:mygeekworkinfinity10@gmail.com) -->
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mayankv53812200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayankv53812200" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayank-vyas-369796213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-vyas-369796213" height="30" width="40" /></a>
-<a href="https://medium.com/@vyasmayank963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vyasmayank963" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kyno587v65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kyno587v65" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### **Languages & Tools**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-glitch-cpu&show_icons=true&locale=en&layout=compact" alt="mayank-glitch-cpu" /></p>
+### **ML & Data Science Frameworks**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![CNN](https://img.shields.io/badge/CNNs-DeepLearning-blue)
+![RNN](https://img.shields.io/badge/RNNs-DeepLearning-blue)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-ML-important)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-glitch-cpu&show_icons=true&locale=en" alt="mayank-glitch-cpu" /></p>
+### **Big Data & Visualization**  
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark)
+![Hadoop](https://img.shields.io/badge/-Hadoop-FF6600?logo=apachehadoop)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-glitch-cpu&" alt="mayank-glitch-cpu" /></p>
+### **Cloud & Databases**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+![ETL](https://img.shields.io/badge/ETL-Data%20Integration-brightgreen)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-IoT-9cf)
+
+### **Libraries & Tools**  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-A21045?logo=mathworks&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-Deep%20Learning-orange)
+
+### **IoT & Embedded Systems**  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi)
+![Edge Computing](https://img.shields.io/badge/Edge%20Computing-FC8D62?logo=&logoColor=white)
+![Fog Computing](https://img.shields.io/badge/Fog%20Computing-FFD92F?logo=&logoColor=black)
+![Sensor Networks](https://img.shields.io/badge/Sensor%20Networks-IoT-ff69b4)
+
+**Domains**  
+🤖 Machine Learning | 📶 IoT Systems | ☁️ Cloud Computing | 📊 Data Analytics
+
+---
+
+## 🚀 Featured Projects
+
+### 1. MaskRoot: Automated Root Phenotyping  
+[![GitHub](https://img.shields.io/badge/Code-MaskRoot-blue)](https://github.com/Mayank-glitch-cpu/MaskRoot)  
+Deep Learning pipeline using **Mask R-CNN** for agricultural root segmentation (96.5% accuracy)  
+`Python` `TensorFlow` `OpenCV`
+
+### 2. Smart Agriculture with LoRa (DASA)  
+[![GitHub](https://img.shields.io/badge/Code-DASA-green)](https://github.com/Mayank-glitch-cpu/DASA)  
+IoT data aggregation system reducing cloud transmissions by **57.39%**  
+`Apache Spark` `LoRaWAN` `Fog Computing`
+
+### 3. Reinforcement Learning for Traffic Control  
+[![GitHub](https://img.shields.io/badge/Code-Traffic%20RL-orange)](https://github.com/Mayank-glitch-cpu/Intersection-Control-using-Reinforcement-learning-and-SUMO)  
+DQN agent optimizing traffic light timing in SUMO simulations  
+`Python` `RLlib` `SUMO`
+
+---
+
+## 📈 GitHub Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=Mayank-glitch-cpu&theme=dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-glitch-cpu&layout=compact&theme=dark)
+
+---
+
+## 📫 Let's Connect!  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mayank-vyas-369796213/)
+- 📧 [Email](mailto:mygeekworkinfinity10@gmail.com)
+- 📝 [Resume](https://docs.google.com/document/d/1Vp0aaJVGs-sqIhJieDniTcPf_mruSh1pnQMerh9DOuM/edit?usp=sharing) 
