@@ -21,7 +21,7 @@ Hello! I'm a passionate **ML Engineer, Data Analyst, and IoT Researcher** curren
 
 - 🌐 **Let’s Connect:** You can reach me at [mvyas7@asu.edu](mailto:mvyas7@asu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/mayank-vyas-369796213/). I’m always happy to discuss ideas, share insights, or explore potential collaborations.
 
-- 🔗 **Explore My Work:** Check out my [GitHub](https://github.com/Mayank-glitch-cpu) and [Portfolio](https://mayank-glitch-cpu.github.io/) to see the projects I’ve worked on and the impact I'm aiming to create in the world of technology.
+- 🔗 **Explore My Work:** Check out my [GitHub](https://github.com/Mayank-glitch-cpu) and [Portfolio](https://mayankvyas-git-main-mayank-glitch-cpus-projects.vercel.app/) to see the projects I’ve worked on and the impact I'm aiming to create in the world of technology.
 
 <!-- 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mayank-vyas-369796213/)
